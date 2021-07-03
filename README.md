@@ -1,4 +1,4 @@
-# UniRx-Dialogue-System
+# Mobidic : Unity Graph based Dialogue System
 > Work in Progress
 > Dialogue text data asset generater with graph editor
 
