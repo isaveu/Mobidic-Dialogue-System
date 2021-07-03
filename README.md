@@ -3,7 +3,7 @@
 > Work in Progress
 > Dialogue text data asset generater with graph editor
 
-![Preview](/fig/sample.png)
+![Preview](./Fig/Sample.png)
 
 ### Structure
 
